@@ -7,8 +7,8 @@
 # 理论内容
 ## 1. 统计学习方法概论
 提纲：<br>
-![]() <br>
-PDF讲义笔记：[]() <br>
+![slide1_catalog](slide1_catalog.jpg) <br>
+PDF讲义笔记：[slide1](slide1.pdf) <br>
 拓展阅读：             
 (3) 《机器学习》第一章、第二章            
 (4) “机器学习” P1 ~ P9              
