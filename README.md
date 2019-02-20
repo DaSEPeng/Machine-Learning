@@ -28,4 +28,4 @@
 《统计学习方法》，李航著        
 《机器学习》， 周志华著        
 《模式识别与机器学习》， 马春鹏译      
-[机器学习](https://www.bilibili.com/video/av10590361?from=search&seid=3689001450384077781)， 李宏毅   [ [课程主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html) ]    
+[机器学习](https://www.bilibili.com/video/av10590361?from=search&seid=3689001450384077781)， 李宏毅 &emsp;  [ [课程主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html) ]    
