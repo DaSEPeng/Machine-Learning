@@ -13,7 +13,9 @@
 ![slide1_catalog](slide1_catalog.jpg) <br>
 PDF讲义笔记：[slide1](slide1.pdf) <br>
 拓展阅读：             
-(3) 《机器学习》第一章、第二章                  
+- 《机器学习》第一章、第二章
+- [训练集、验证集和测试集的意义](https://kexue.fm/archives/4638)
+- [模型评估与选择（一）](https://blog.csdn.net/u012587024/article/details/82021739)
 
 
 
@@ -29,7 +31,7 @@ PDF讲义笔记：[slide1](slide1.pdf) <br>
 **本科生阶段**
 - [机器学习课程主页](http://58.198.176.86/qwdong/machinelearning/)，董启文老师讲授         
 - 《统计学习方法》，李航著        
-- 《机器学习》， 周志华著        
+- 《机器学习》， 周志华著 &emsp; [部分PDF讲义](https://pan.baidu.com/s/1qYRMLvY#list/path=%2Fsharelink3323281866-216949872296924%2FMachine_Learning_Zhihua_Zhou&parentPath=%2Fsharelink3323281866-216949872296924)        
 - [机器学习](https://www.bilibili.com/video/av10590361?from=search&seid=3689001450384077781)， 李宏毅 &emsp;  [ [课程主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html) ]    
 - 《机器学习实战》， Peter Harrington 著
 - 《集体智慧编程》， Toby Segaran 著
