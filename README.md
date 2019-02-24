@@ -13,8 +13,7 @@
 ![slide1_catalog](slide1_catalog.jpg) <br>
 PDF讲义笔记：[slide1](slide1.pdf) <br>
 拓展阅读：             
-(3) 《机器学习》第一章、第二章            
-(4) “机器学习” P1 ~ P9              
+(3) 《机器学习》第一章、第二章                  
 
 
 
