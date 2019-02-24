@@ -16,7 +16,7 @@ PDF讲义笔记：[slide1](slide1.pdf) <br>
 - 《机器学习》第一章、第二章
 - [训练集、验证集和测试集的意义](https://kexue.fm/archives/4638)
 - [模型评估与选择（一）](https://blog.csdn.net/u012587024/article/details/82021739)
-
+- [周志华：机器学习及其挑战](http://ishare.iask.sina.com.cn/f/avsoreKjshK.html)
 
 
 ------------------------------------------------
