@@ -25,8 +25,19 @@ PDF讲义笔记：[slide1](slide1.pdf) <br>
 --------------------------------------------------
 
 # 参考资料
-[机器学习课程主页](http://58.198.176.86/qwdong/machinelearning/)，董启文老师讲授         
-《统计学习方法》，李航著        
-《机器学习》， 周志华著        
-《模式识别与机器学习》， 马春鹏译 &emsp; [Sargur Srihari 讲义](https://cedar.buffalo.edu/~srihari/CSE574/?utm_source=wechat_session&utm_medium=social&utm_oi=844207196790202368)      
-[机器学习](https://www.bilibili.com/video/av10590361?from=search&seid=3689001450384077781)， 李宏毅 &emsp;  [ [课程主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html) ]    
+**本科生阶段**
+- [机器学习课程主页](http://58.198.176.86/qwdong/machinelearning/)，董启文老师讲授         
+- 《统计学习方法》，李航著        
+- 《机器学习》， 周志华著        
+- [机器学习](https://www.bilibili.com/video/av10590361?from=search&seid=3689001450384077781)， 李宏毅 &emsp;  [ [课程主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html) ]    
+- 《机器学习实战》， Peter Harrington 著
+- 《集体智慧编程》， Toby Segaran 著
+
+**研究生阶段**
+- 《模式识别与机器学习》， 马春鹏译 &emsp; [Sargur Srihari 讲义](https://cedar.buffalo.edu/~srihari/CSE574/?utm_source=wechat_session&utm_medium=social&utm_oi=844207196790202368)       
+- 《Machine Learning：A Probabilistic Perspective》 
+- 《The Elements of Statistical Learning》
+- 顶会论文以及相应实现 
+
+
+备注：GitHub往往有配套代码实现
