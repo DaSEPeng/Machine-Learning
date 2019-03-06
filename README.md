@@ -1,4 +1,4 @@
-
+[test](感知机（PLA）.pdf)
 【[Home](https://simplelp.github.io/)】     
 本模块整理机器学习相关内容，涉及机器学习方法的核心想法、数学推导与代码实践   
 <br>
