@@ -75,6 +75,8 @@
 - 《机器学习》， 周志华著 &emsp; [[部分PDF讲义](https://pan.baidu.com/s/1qYRMLvY#list/path=%2Fsharelink3323281866-216949872296924%2FMachine_Learning_Zhihua_Zhou&parentPath=%2Fsharelink3323281866-216949872296924)]&emsp;[[参考笔记](https://github.com/Vay-keen/Machine-learning-learning-notes)]        
 - [机器学习](https://www.bilibili.com/video/av10590361?from=search&seid=3689001450384077781)， 李宏毅 &emsp;  [ [课程主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html) ]    
 - [CS229n](http://cs229.stanford.edu/syllabus.html)，吴恩达
+- 机器学习基础，林轩田
+- 机器学习技法，林轩田
 - 《机器学习实战》， Peter Harrington 著  
 - 《集体智慧编程》， Toby Segaran 著
 - [周志华：机器学习及其挑战](http://ishare.iask.sina.com.cn/f/avsoreKjshK.html)
