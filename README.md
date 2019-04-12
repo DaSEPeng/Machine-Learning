@@ -8,7 +8,7 @@
 
 # 理论内容
 
-| 内容      |    核心内容 | 笔记  |参考 | 
+| 内容      |    笔记 | 代码实现  |参考 | 
 | :-------- | :--------| :----- | :----- | 
 | **1. 机器学习概论**  |  |     | |
 | 机器学习概述| | | | 
@@ -61,6 +61,14 @@
 
 # 实践内容
 
+|    Project    |    Target | Data  | Methods | Report | Code|
+| :-------- | :--------| :----- |:-----|:-----|:----|
+| Project 1<br>(update 2019/06/23)  | Classification | [Online Shoppers Purchasing Intention Dataset Data Set](http://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)    |逻辑回归、决策树、神经网络|  | |
+| Project 2<br>(update 2019/06/23)  |Text Classification   | [Naive Bayes algorithm for learning to classify text](http://www.cs.cmu.edu/afs/cs/project/theo-11/www/naive-bayes.html)    |主题模型(pLSA、LDA、etc.)         |    |     |
+
+
+
+
 
 
 --------------------------------------------------
@@ -75,14 +83,10 @@
 - 《机器学习》， 周志华著 &emsp; [[部分PDF讲义](https://pan.baidu.com/s/1qYRMLvY#list/path=%2Fsharelink3323281866-216949872296924%2FMachine_Learning_Zhihua_Zhou&parentPath=%2Fsharelink3323281866-216949872296924)]&emsp;[[参考笔记](https://github.com/Vay-keen/Machine-learning-learning-notes)]        
 - [机器学习](https://www.bilibili.com/video/av10590361?from=search&seid=3689001450384077781)， 李宏毅 &emsp;  [ [课程主页](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html) ]    
 - [CS229n](http://cs229.stanford.edu/syllabus.html)，吴恩达
-- 机器学习基础，林轩田
-- 机器学习技法，林轩田
-- 《机器学习实战》， Peter Harrington 著  
-- 《集体智慧编程》， Toby Segaran 著
 - [周志华：机器学习及其挑战](http://ishare.iask.sina.com.cn/f/avsoreKjshK.html)
 
 **研究生阶段**
-- 《模式识别与机器学习》， 马春鹏译 &emsp; [Sargur Srihari 讲义](https://cedar.buffalo.edu/~srihari/CSE574/?utm_source=wechat_session&utm_medium=social&utm_oi=844207196790202368)       
+- 《模式识别与机器学习》， 马春鹏译 &emsp; [[Sargur Srihari 讲义](https://cedar.buffalo.edu/~srihari/CSE574/?utm_source=wechat_session&utm_medium=social&utm_oi=844207196790202368)] &emsp; [[FUDAN PRML](https://zfhu.ac.cn/PRML-Spring19-Fudan/)]
 - 《Machine Learning：A Probabilistic Perspective》 
 - 《The Elements of Statistical Learning》
 - 顶会论文以及相应实现 
