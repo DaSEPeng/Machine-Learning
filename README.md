@@ -8,21 +8,21 @@
 
 # 理论内容
 
-| 内容      |    笔记 | 代码实现  |参考 | 
+| Content      |    Notes | Project  |References | 
 | :-------- | :--------| :----- | :----- | 
 | **1. 机器学习概论**  |  |     | |
 | 机器学习概述| | | | 
 | **2. 线性模型**| | | |
-| 感知机     |    |    ||
+| 感知机     |    | [Iris DataSet](http://archive.ics.uci.edu/ml/datasets/iris)   ||
 | Logistic回归与Softmax回归      |     |   ||
 |SVM | | | |
 |线性回归 | | ||
 | **3. 神经网络**| | ||
-|MLP | | ||
+|MLP | | [Mnist Datasets](http://yann.lecun.com/exdb/mnist/)||
 |CNN | | ||
 |RNN | | ||
 |**4. 决策树与集成学习** | | ||
-| 决策树| | ||
+| 决策树| | [Online Shoppers Purchasing Intention Dataset Data Set](http://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)||
 | 集成学习与随机森林 | | ||
 | AdaBoost| | ||
 | GBDT | | ||
