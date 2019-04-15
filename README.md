@@ -14,7 +14,7 @@
 | 机器学习概述| | | | 
 | **2. 线性模型**| | | |
 | 感知机     |    | [Iris DataSet](http://archive.ics.uci.edu/ml/datasets/iris)   ||
-| Logistic回归与Softmax回归      |     |   ||
+| Logistic回归与Softmax回归      |     | [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)  ||
 |SVM | | | |
 |线性回归 | | ||
 | **3. 神经网络**| | ||
