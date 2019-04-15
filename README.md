@@ -16,7 +16,7 @@
 | 感知机     |    | [Iris DataSet](http://archive.ics.uci.edu/ml/datasets/iris)   ||
 | Logistic回归与Softmax回归      |     | [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)  ||
 |SVM | | | |
-|线性回归 | | ||
+|线性回归 | |[工业蒸汽量预测](https://tianchi.aliyun.com/competition/entrance/231693/information) ||
 | **3. 神经网络**| | ||
 |MLP | | [Mnist Datasets](http://yann.lecun.com/exdb/mnist/)||
 |CNN | | ||
