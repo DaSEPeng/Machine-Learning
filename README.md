@@ -15,7 +15,7 @@
 | **2. 线性模型**| | | |
 | 感知机     |    | [Iris DataSet](http://archive.ics.uci.edu/ml/datasets/iris)   ||
 | Logistic回归与Softmax回归      |     | [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)  ||
-|SVM | | | |
+|SVM | |  [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)| |
 |线性回归 | |[工业蒸汽量预测](https://tianchi.aliyun.com/competition/entrance/231693/information) ||
 | **3. 神经网络**| | ||
 |MLP | | [Mnist Datasets](http://yann.lecun.com/exdb/mnist/)||
@@ -23,11 +23,11 @@
 |RNN | | ||
 |**4. 决策树与集成学习** | | ||
 | 决策树| | [Online Shoppers Purchasing Intention Dataset Data Set](http://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)||
-| 集成学习与随机森林 | | ||
+| 集成学习与随机森林 | |  [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)||
 | AdaBoost| | ||
 | GBDT | | ||
 | Xgboost| | ||
-|**5. kNN** | | ||
+|**5. kNN** | |  [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)||
 |kNN | | ||
 |距离度量学习 | | ||
 |**6. 贝叶斯分类器** | | ||
