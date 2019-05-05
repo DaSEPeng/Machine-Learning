@@ -1,4 +1,4 @@
-【[Home](https://simplelp.github.io/)】&emsp;【[View on Github](https://github.com/SimpleLP/Machine-Learning/)】        
+【 **[Home](https://simplelp.github.io/)** 】&emsp;【 **[View on Github](https://github.com/SimpleLP/Machine-Learning/)** 】        
 本模块整理机器学习相关内容，涉及机器学习算法的核心想法、数学推导与代码实践   
 <br>
 路线图：
