@@ -1,4 +1,3 @@
-【 **[Home](https://simplelp.github.io/)** 】&emsp;【 **[View on Github](https://github.com/SimpleLP/Machine-Learning/)** 】        
 本模块整理机器学习相关内容，涉及机器学习算法的核心想法、数学推导与代码实践   
 <br>
 路线图：
@@ -91,5 +90,9 @@
 - 《The Elements of Statistical Learning》
 - 顶会论文以及相应实现 
 
+------------------------------------------------------------
 
-备注：GitHub往往有配套代码实现
+<div style="text-align:center;">
+This page maintained by @ <a href="https://simplelp.github.io/">SimplePeng</a>, 	
+<a href="https://github.com/SimpleLP/Machine-Learning/">View on GitHub</a>
+</div>
