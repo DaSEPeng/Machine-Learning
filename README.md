@@ -17,7 +17,7 @@
 |SVM | |  [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)| |
 |线性回归 | |[工业蒸汽量预测](https://tianchi.aliyun.com/competition/entrance/231693/information) ||
 | **3. 神经网络**| | ||
-|MLP | | [Mnist Datasets](http://yann.lecun.com/exdb/mnist/)||
+|MLP |[PDF](/NeuralNetwork/NN.pdf) [PPT](/NeuralNetwork/NN.pptx) | [Mnist Datasets](http://yann.lecun.com/exdb/mnist/)|[Backpropagation](http://galaxy.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)|
 |CNN | | ||
 |RNN | | ||
 |**4. 决策树与集成学习** | | ||
