@@ -98,6 +98,10 @@
 - 《Machine Learning：A Probabilistic Perspective》 
 - 《The Elements of Statistical Learning》
 
+**附加阅读**
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
+
+
 ------------------------------------------------------------
 
 <div style="text-align:center;">
