@@ -5,7 +5,10 @@
 
 -------------------------------------------------
 
+
 # 理论内容
+
+
 
 | Content      |    Notes | Project  |References | 
 | :-------- | :--------| :----- | :----- | 
@@ -45,12 +48,14 @@
 |**10. 聚类** | | | |
 |kMeans | | | |
 |EM算法 | | | |
-|**11. 强化学习** | | | |
+|**11. 迁移学习** | | | | 
+| 迁移学习| | |[Everything about Transfer Learning](http://transferlearning.xyz/) | 
+|**12. 强化学习** | | | |
 |蒙特卡洛算法 | | | |
 |价值迭代 | | | |
 |策略迭代 | | | |
 |时序差分算法 | | | |
-|**12. 机器学习理论** | | | |
+|**13. 机器学习理论** | | | |
 |VC维 | | | | 
 
 注：<br> 
@@ -62,7 +67,11 @@
 
 ------------------------------------------------
 
+
+
 # 实践内容
+
+
 
 |    Project    |    Target | Data  | Methods | Report | Code|
 | :-------- | :--------| :----- |:-----|:-----|:----|
@@ -93,6 +102,8 @@
 **机器学习实战**
 - [慕课网：Python3玩转机器学习](https://coding.imooc.com/class/169.html)
 - [邹博的机器学习课程](https://www.bilibili.com/video/av23585080?from=search&seid=162992797617774420)
+- [kaggle案例实战班](https://www.bilibili.com/video/av42834527?from=search&seid=7750784603776284569)
+- [Python机器学习Kaggle案例实战](https://www.bilibili.com/video/av35531698?from=search&seid=7750784603776284569)
 
 **机器学习的数学理论**
 - 《Machine Learning：A Probabilistic Perspective》 
@@ -100,6 +111,8 @@
 
 **附加阅读**
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
+
+
 
 
 ------------------------------------------------------------
