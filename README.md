@@ -82,10 +82,10 @@
 - [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 **机器学习基础**
-- [机器学习](ttp://58.198.176.86/qwdong/machinelearning/)，董启文老师讲授  
+- [机器学习](http://58.198.176.86/qwdong/machinelearning/)，董启文老师讲授  
   - 《统计学习方法》，李航著 &emsp; [[Code实现](https://github.com/Dod-o/Statistical-Learning-Method_Code)]&emsp;[[知乎参考读物](https://zhuanlan.zhihu.com/p/36378498)]       
   - 《机器学习》， 周志华著    
-- [机器学习](ttp://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)， 李宏毅 &emsp; [[Video](https://www.bilibili.com/video/av10590361?from=search&seid=3689001450384077781)]   
+- [机器学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)， 李宏毅 &emsp; [[Video](https://www.bilibili.com/video/av10590361?from=search&seid=3689001450384077781)]   
   - 《模式识别与机器学习》， 马春鹏译 
   - PRML相关Slides： [FUDAN PRML](https://zfhu.ac.cn/PRML-Spring19-Fudan/)&emsp;[DaSE PRML](https://github.com/ECNUdase/Seminar-PRML)
 - [CS229N](http://cs229.stanford.edu/syllabus.html)，吴恩达
