@@ -49,7 +49,7 @@
 |kMeans | | | |
 |EM算法 | | | |
 |**11. 迁移学习** | | | | 
-| 迁移学习| | |[Everything about Transfer Learning](http://transferlearning.xyz/) | 
+| 迁移学习简介|[李宏毅迁移学习Notes](/TransferLearning/transfer_HYL.pdf) | |[Everything about Transfer Learning](http://transferlearning.xyz/) | 
 |**12. 强化学习** | | | |
 |蒙特卡洛算法 | | | |
 |价值迭代 | | | |
