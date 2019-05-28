@@ -46,7 +46,7 @@
 |PCA | | | |
 |流形学习 | | | |
 |**10. 聚类** | | | |
-|kMeans | | |[机器学习，吴恩达](https://study.163.com/course/courseMain.htm?courseId=1004570029&_trace_c_p_k2_=ae72248b13a941bea4881d06148a09fd)、[K-means学习进阶以及它与EM的关系](https://blog.csdn.net/u010159842/article/details/45954961) |
+|kMeans | | |[机器学习（吴恩达）](https://study.163.com/course/courseMain.htm?courseId=1004570029&_trace_c_p_k2_=ae72248b13a941bea4881d06148a09fd)、[K-means学习进阶以及它与EM的关系](https://blog.csdn.net/u010159842/article/details/45954961) |
 |EM算法 | | | |
 |**11. 迁移学习** | | | | 
 | 迁移学习简介|[PDF](/TransferLearning/transfer_HYL.pdf) [Video](https://www.bilibili.com/video/av35932863/?p=27)| |[Everything about Transfer Learning](http://transferlearning.xyz/) | 
