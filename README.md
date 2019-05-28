@@ -98,6 +98,7 @@
   - 《模式识别与机器学习》， 马春鹏译 
   - PRML相关Slides： [FUDAN PRML](https://zfhu.ac.cn/PRML-Spring19-Fudan/)&emsp;[DaSE PRML](https://github.com/ECNUdase/Seminar-PRML)
 - [CS229N](http://cs229.stanford.edu/syllabus.html)，吴恩达
+- [机器学习, 白板推导系列](https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%20%E7%99%BD%E6%9D%BF%E6%8E%A8%E5%AF%BC%E7%B3%BB%E5%88%97&from_source=nav_search)
 
 **机器学习实战**
 - [慕课网：Python3玩转机器学习](https://coding.imooc.com/class/169.html)
