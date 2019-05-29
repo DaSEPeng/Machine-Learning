@@ -105,6 +105,7 @@
 - [邹博的机器学习课程](https://www.bilibili.com/video/av23585080?from=search&seid=162992797617774420)
 - [kaggle案例实战班](https://www.bilibili.com/video/av42834527?from=search&seid=7750784603776284569)
 - [Python机器学习Kaggle案例实战](https://www.bilibili.com/video/av35531698?from=search&seid=7750784603776284569)
+- [网易云课堂：Python数据分析与机器学习实战](https://www.bilibili.com/video/av29435521/?p=2)
 
 **机器学习的数学理论**
 - 《Machine Learning：A Probabilistic Perspective》 
