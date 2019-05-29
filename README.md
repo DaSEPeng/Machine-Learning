@@ -27,7 +27,7 @@
 | 决策树| | [Online Shoppers Purchasing Intention Dataset Data Set](http://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)|《数据挖掘导论》|
 | 集成学习与随机森林 | |  [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)|[决策树与随机森林（邹博）](/RandomForest/DT_RF_zb.pdf)、[集成学习（周志华）](/RandomForest/EnsembleLearning_zhh.pdf)、《数据挖掘导论》|
 | AdaBoost| | ||
-| GBDT & Xgboost | | |[Xgboost---python数据分析与机器学习实战](https://www.bilibili.com/video/av29442085/?p=7)、[Introduction to Boosted Trees (Tianqi Chen)](https://homes.cs.washington.edu/~tqchen/data/pdf/BoostedTree.pdf)|
+| GBDT & Xgboost | | |[Xgboost---Python数据分析与机器学习实战](https://www.bilibili.com/video/av29442085/?p=7)、[Introduction to Boosted Trees (Tianqi Chen)](https://homes.cs.washington.edu/~tqchen/data/pdf/BoostedTree.pdf)|
 |**5. kNN** | |  [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)||
 |kNN | | ||
 |距离度量学习 | | ||
