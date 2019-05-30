@@ -109,6 +109,8 @@
 
 **机器学习的数学理论**
 - 《Machine Learning：A Probabilistic Perspective》 
+- 《[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)》
+  - [Stanford Lagunita: Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 - 《The Elements of Statistical Learning》
 
 **附加阅读**
