@@ -13,7 +13,7 @@
 | Content      |    Notes | Project  |References | 
 | :-------- | :--------| :----- | :----- | 
 | **1. 机器学习概论**  |  |     | |
-| 机器学习概述| | | | 
+| 机器学习概述|[PDF](/Introduction/Introduction.pdf) [PPT](/Introduction/Introduction.pptx) | | | 
 | **2. 线性模型**| | | |
 | 感知机     |    | [Iris DataSet](http://archive.ics.uci.edu/ml/datasets/iris)   ||
 | Logistic回归与Softmax回归      |     | [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)  ||
