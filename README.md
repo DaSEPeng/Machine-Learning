@@ -99,6 +99,7 @@
   - PRML相关Slides： [FUDAN PRML](https://zfhu.ac.cn/PRML-Spring19-Fudan/)&emsp;[DaSE PRML](https://github.com/ECNUdase/Seminar-PRML)
 - [CS229N](http://cs229.stanford.edu/syllabus.html)，吴恩达
 - [机器学习, 白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)
+- 机器学习基石，机器学习技法（SVM部分），台大林轩田
 
 **机器学习实战**
 - [慕课网：Python3玩转机器学习](https://coding.imooc.com/class/169.html)
@@ -112,6 +113,8 @@
 - 《[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)》
   - [Stanford Lagunita: Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 - 《The Elements of Statistical Learning》
+- 统计机器学习，机器学习导论，张志华
+- 机器学习，徐亦达
 
 **附加阅读**
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
