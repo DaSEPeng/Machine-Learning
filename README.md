@@ -29,8 +29,8 @@
 | AdaBoost| | |《数据挖掘导论》|
 | GBDT & Xgboost | | |[Xgboost---Python数据分析与机器学习实战](https://www.bilibili.com/video/av29442085/?p=7)、[Introduction to Boosted Trees (Tianqi Chen)](https://homes.cs.washington.edu/~tqchen/data/pdf/BoostedTree.pdf)、[Introduction to LightGBM (Taifeng Wang@Microsoft)](https://www.bilibili.com/video/av47496956/?spm_id_from=333.788.videocard.1)|
 |**5. kNN** | |  ||
-|kNN | | ||
-|距离度量学习 | | ||
+|kNN |[PDF](/kNN/kNN.pdf) [PPT](/kNN/kNN.pptx) | ||
+|距离度量学习 | | |[距离度量学习论文阅读](https://zhuanlan.zhihu.com/p/26382052)|
 |**6. 贝叶斯分类器** | | ||
 |朴素贝叶斯 | | ||
 |贝叶斯网络 | | ||
