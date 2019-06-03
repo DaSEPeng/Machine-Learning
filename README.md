@@ -28,7 +28,7 @@
 | 集成学习与随机森林 | | |[决策树与随机森林（邹博）](/RandomForest/DT_RF_zb.pdf)、[集成学习（周志华）](/RandomForest/EnsembleLearning_zhh.pdf)、《数据挖掘导论》|
 | AdaBoost| | |《数据挖掘导论》|
 | GBDT & Xgboost | | |[Xgboost---Python数据分析与机器学习实战](https://www.bilibili.com/video/av29442085/?p=7)、[Introduction to Boosted Trees (Tianqi Chen)](https://homes.cs.washington.edu/~tqchen/data/pdf/BoostedTree.pdf)、[Introduction to LightGBM (Taifeng Wang@Microsoft)](https://www.bilibili.com/video/av47496956/?spm_id_from=333.788.videocard.1)|
-|**5. kNN** | |  [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)||
+|**5. kNN** | |  ||
 |kNN | | ||
 |距离度量学习 | | ||
 |**6. 贝叶斯分类器** | | ||
