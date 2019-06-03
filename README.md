@@ -32,7 +32,7 @@
 |kNN |[PDF](/kNN/kNN.pdf) [PPT](/kNN/kNN.pptx) | ||
 |距离度量学习 | | |[距离度量学习论文阅读](https://zhuanlan.zhihu.com/p/26382052)|
 |**6. 贝叶斯分类器** | | ||
-|朴素贝叶斯 | | ||
+|朴素贝叶斯 |[PDF](/NaiveBayes/NaiveBayes.pdf) [PPT](/NaiveBayes/NaiveBayes.pptx) | ||
 |贝叶斯网络 | | ||
 |正态贝叶斯 | | ||
 |**7. 图模型** | | | |
