@@ -15,17 +15,17 @@
 | **1. 机器学习概论**  |  |     | |
 | 机器学习概述|[PDF](/Introduction/Introduction.pdf) [PPT](/Introduction/Introduction.pptx) | | | 
 | **2. 线性模型**| | | |
-| 感知机     |    | [Iris DataSet](http://archive.ics.uci.edu/ml/datasets/iris)   ||
-| Logistic回归与Softmax回归      |     | [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)  ||
-|SVM | |  [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)| |
-|线性回归 | |[工业蒸汽量预测](https://tianchi.aliyun.com/competition/entrance/231693/information) ||
+| 感知机     | [PDF](/Perceptron/Perceptron.pdf) [PPT](/Perceptron/Perceptron.pptx)   |   ||
+| Logistic回归与Softmax回归      |     |   ||
+|SVM | | | |
+|线性回归 | |||
 | **3. 神经网络**| | ||
-|MLP |[PDF](/NeuralNetwork/NN.pdf) [PPT](/NeuralNetwork/NN.pptx) | [Mnist Datasets](http://yann.lecun.com/exdb/mnist/)|[Backpropagation](http://galaxy.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)|
+|MLP |[PDF](/NeuralNetwork/NN.pdf) [PPT](/NeuralNetwork/NN.pptx) | |[Backpropagation](http://galaxy.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)|
 |CNN | | ||
 |RNN | | ||
 |**4. 决策树与集成学习** | | ||
-| 决策树| | [Online Shoppers Purchasing Intention Dataset Data Set](http://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)|《数据挖掘导论》|
-| 集成学习与随机森林 | |  [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)|[决策树与随机森林（邹博）](/RandomForest/DT_RF_zb.pdf)、[集成学习（周志华）](/RandomForest/EnsembleLearning_zhh.pdf)、《数据挖掘导论》|
+| 决策树| ||《数据挖掘导论》|
+| 集成学习与随机森林 | | |[决策树与随机森林（邹博）](/RandomForest/DT_RF_zb.pdf)、[集成学习（周志华）](/RandomForest/EnsembleLearning_zhh.pdf)、《数据挖掘导论》|
 | AdaBoost| | |《数据挖掘导论》|
 | GBDT & Xgboost | | |[Xgboost---Python数据分析与机器学习实战](https://www.bilibili.com/video/av29442085/?p=7)、[Introduction to Boosted Trees (Tianqi Chen)](https://homes.cs.washington.edu/~tqchen/data/pdf/BoostedTree.pdf)、[Introduction to LightGBM (Taifeng Wang@Microsoft)](https://www.bilibili.com/video/av47496956/?spm_id_from=333.788.videocard.1)|
 |**5. kNN** | |  [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/overview)||
