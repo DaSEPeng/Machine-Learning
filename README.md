@@ -15,10 +15,10 @@
 | **1. 机器学习概论**  |  |     | |
 | 机器学习概述|[PDF](/Introduction/Introduction.pdf) [PPT](/Introduction/Introduction.pptx) | | | 
 | **2. 线性模型**| | | |
+|线性回归 |[PDF](/LinearRegression/LinearRegression.pdf) [Video](https://www.bilibili.com/video/av31989606/) |||
 | 感知机     | [PDF](/Perceptron/Perceptron.pdf) [PPT](/Perceptron/Perceptron.pptx)   |   ||
 | Logistic回归与Softmax回归      |     |   ||
 |SVM | | | |
-|线性回归 | |||
 | **3. 神经网络**| | ||
 |MLP |[PDF](/NeuralNetwork/NN.pdf) [PPT](/NeuralNetwork/NN.pptx) | |[Backpropagation](http://galaxy.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)|
 |CNN | | ||
