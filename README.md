@@ -97,7 +97,7 @@
   - 《模式识别与机器学习》， 马春鹏译 
   - PRML相关Slides： [FUDAN PRML](https://zfhu.ac.cn/PRML-Spring19-Fudan/)&emsp;[DaSE PRML](https://github.com/ECNUdase/Seminar-PRML)
 - [CS229N](http://cs229.stanford.edu/syllabus.html)，吴恩达
-- [机器学习, 白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)
+- [机器学习, 白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)&emsp;[Note](https://github.com/ws13685555932/machine_learning_derivation)
 - 机器学习基石，机器学习技法（SVM部分），台大林轩田
 
 **机器学习实战**
