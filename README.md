@@ -112,6 +112,7 @@
 - 《Machine Learning：A Probabilistic Perspective》 
 - 《[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)》
   - [Stanford Lagunita: Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+  - [UCB: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 - 《The Elements of Statistical Learning》
 - 统计机器学习，机器学习导论，张志华
 - 机器学习，徐亦达
