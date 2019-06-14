@@ -73,10 +73,10 @@
 
 |    Project    |    Target | Data  | Methods | Report | Code|
 | :-------- | :--------| :----- |:-----|:-----|:----|
-| Project 1<br>(update 2019/06/23)  | Classification | [Online Shoppers Purchasing Intention Dataset Data Set](http://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)    |逻辑回归、决策树、神经网络|  | |
+| Project 1<br>(update 2019/06/23)  | Classification | [Online Shoppers Purchasing Intention Dataset Data Set](http://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)    |Logistic Regression, Decision Tree, Multilayer Perceptron|  | |
 | Project 2<br>(update 2019/06/23)  |Text Classification   | [Naive Bayes algorithm for learning to classify text](http://www.cs.cmu.edu/afs/cs/project/theo-11/www/naive-bayes.html)    |主题模型(pLSA、LDA、etc.)         |    |     |
 | Project 3<br>(update 2019/06/23)  |  Digital Recognition |[MNIST](http://yann.lecun.com/exdb/mnist/)     |  DNN,CNN,SOTA      |    |     |
-| Project 4<br>(update 2019/06/23)  | Face Recognition & Expression Clustering |  [CMU Machine Learning Faces](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/faces.html) |     |    |     |
+| Project 4<br>(update 2019/06/23)  | Face Recognition & Expression Clustering |  [CMU Machine Learning Faces](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/faces.html) |   SOTA  |    |     |
 
 
 
