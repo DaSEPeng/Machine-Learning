@@ -1,7 +1,7 @@
 本模块整理机器学习与深度学习相关内容，涉及机器学习（统计机器学习、概率图模型、神经网络）算法的核心想法、数学推导与代码实践   
 <br>
-Something Interesting:
-![MLRoad](MLroad.png)
+**Something Interesting:**
+<center>![MLRoad](MLroad.png)</center>
 
 -------------------------------------------------
 
