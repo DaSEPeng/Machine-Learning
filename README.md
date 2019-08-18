@@ -7,52 +7,52 @@
 # 理论内容
 
 
-| Content      |    Notes | Project  |References | 
-| :-------- | :--------| :----- | :----- | 
-| **1. 机器学习概论**  |  |     | |
-| 机器学习概述|[PDF](/Introduction/Introduction.pdf) [PPT](/Introduction/Introduction.pptx) | | | 
-| **2. 线性模型**| | | |
-|线性回归 |[PDF](/LinearRegression/LinearRegression.pdf) [Video](https://www.bilibili.com/video/av31989606/) ||[回归（邹博）](https://www.bilibili.com/video/av23585080/?p=8)|
-| 感知机     | [PDF](/Perceptron/Perceptron.pdf) [PPT](/Perceptron/Perceptron.pptx)   |   ||
-| Logistic回归   |     |   ||
-|SVM | | | |
-| **3. 神经网络**| | ||
-|MLP |[PDF](/NeuralNetwork/NN.pdf) [PPT](/NeuralNetwork/NN.pptx) | |[Backpropagation](http://galaxy.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)|
-|CNN | | ||
-|RNN | | ||
-|**4. 决策树与集成学习** | | ||
-| 决策树| ||《数据挖掘导论》|
-| 集成学习与随机森林 | | |[决策树与随机森林（邹博）](/RandomForest/DT_RF_zb.pdf)、[集成学习（周志华）](/RandomForest/EnsembleLearning_zhh.pdf)、《数据挖掘导论》|
-| AdaBoost| | |《数据挖掘导论》|
-| GBDT & Xgboost | | |[Xgboost---Python数据分析与机器学习实战](https://www.bilibili.com/video/av29442085/?p=7)、[Introduction to Boosted Trees (Tianqi Chen)](https://homes.cs.washington.edu/~tqchen/data/pdf/BoostedTree.pdf)、[Introduction to LightGBM (Taifeng Wang@Microsoft)](https://www.bilibili.com/video/av47496956/?spm_id_from=333.788.videocard.1)|
-|**5. kNN** | |  ||
-|kNN |[PDF](/kNN/kNN.pdf) [PPT](/kNN/kNN.pptx) | ||
-|距离度量学习 | | |[距离度量学习论文阅读](https://zhuanlan.zhihu.com/p/26382052)|
-|**6. 贝叶斯分类器** | | ||
-|朴素贝叶斯 |[PDF](/NaiveBayes/NaiveBayes.pdf) [PPT](/NaiveBayes/NaiveBayes.pptx) | ||
-|贝叶斯网络 | | ||
-|正态贝叶斯 | | ||
-|**7. 图模型** | | | |
-|HMM | | ||
-|CRF | | | | 
-|**8. LDA** | | ||
-|LDA | | | |
-|KLDA | | | |
-|**9. 降维** | | |  |
-|PCA | | | |
-|流形学习 | | | |
-|**10. 聚类** | | | |
-|kMeans | | |[机器学习（吴恩达）](https://study.163.com/course/courseMain.htm?courseId=1004570029&_trace_c_p_k2_=ae72248b13a941bea4881d06148a09fd)、[K-means学习进阶以及它与EM的关系](https://blog.csdn.net/u010159842/article/details/45954961)、[机器学习（邹博）](https://www.bilibili.com/video/av23585080/?p=16) |
-|EM算法 | | | |
-|**11. 迁移学习** | | | | 
-| 迁移学习简介|[PDF](/TransferLearning/transfer_HYL.pdf) [Video](https://www.bilibili.com/video/av35932863/?p=27)| |[Everything about Transfer Learning](http://transferlearning.xyz/) | 
-|**12. 强化学习** | | | |
-|蒙特卡洛算法 | | | |
-|价值迭代 | | | |
-|策略迭代 | | | |
-|时序差分算法 | | | |
-|**13. 机器学习理论** | | | |
-|VC维 | | | | 
+| Content      |   References   |Notes | 
+| :-------- | :-------- | :----- | 
+| **1. 机器学习概论**  |  |     |
+| 机器学习概述| |[PDF](/Introduction/Introduction.pdf) [PPT](/Introduction/Introduction.pptx) | 
+| **2. 线性模型**| | |
+|线性回归 | [回归（邹博）](https://www.bilibili.com/video/av23585080/?p=8) |[PDF](/LinearRegression/LinearRegression.pdf) [Video](https://www.bilibili.com/video/av31989606/)|
+| 感知机   |   |[PDF](/Perceptron/Perceptron.pdf) [PPT](/Perceptron/Perceptron.pptx)  |
+| Logistic回归   |     ||
+|SVM | | |
+| **3. 神经网络**| | |
+|MLP |[Backpropagation](http://galaxy.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)|[PDF](/NeuralNetwork/NN.pdf) [PPT](/NeuralNetwork/NN.pptx) |
+|CNN | | |
+|RNN | | |
+|**4. 决策树与集成学习** | | |
+| 决策树| 《数据挖掘导论》||
+| 集成学习与随机森林 | [决策树与随机森林（邹博）](/RandomForest/DT_RF_zb.pdf)、[集成学习（周志华）](/RandomForest/EnsembleLearning_zhh.pdf)、《数据挖掘导论》||
+| AdaBoost| 《数据挖掘导论》| |
+| GBDT & Xgboost | [Xgboost---Python数据分析与机器学习实战](https://www.bilibili.com/video/av29442085/?p=7)、[Introduction to Boosted Trees (Tianqi Chen)](https://homes.cs.washington.edu/~tqchen/data/pdf/BoostedTree.pdf)、[Introduction to LightGBM (Taifeng Wang@Microsoft)](https://www.bilibili.com/video/av47496956/?spm_id_from=333.788.videocard.1)||
+|**5. kNN** | |  |
+|kNN | |[PDF](/kNN/kNN.pdf) [PPT](/kNN/kNN.pptx) |
+|距离度量学习 | [距离度量学习论文阅读](https://zhuanlan.zhihu.com/p/26382052)| |
+|**6. 贝叶斯分类器** | | |
+|朴素贝叶斯 ||[PDF](/NaiveBayes/NaiveBayes.pdf) [PPT](/NaiveBayes/NaiveBayes.pptx) |
+|贝叶斯网络 | | |
+|正态贝叶斯 | | |
+|**7. 图模型** | | | 
+|HMM | | |
+|CRF | |  | 
+|**8. LDA** | | |
+|LDA | | | 
+|KLDA | | | 
+|**9. 降维** | | |  
+|PCA | | | 
+|流形学习 | | | 
+|**10. 聚类** | | | 
+|kMeans | [机器学习（吴恩达）](https://study.163.com/course/courseMain.htm?courseId=1004570029&_trace_c_p_k2_=ae72248b13a941bea4881d06148a09fd)、[K-means学习进阶以及它与EM的关系](https://blog.csdn.net/u010159842/article/details/45954961)、[机器学习（邹博）](https://www.bilibili.com/video/av23585080/?p=16)| |
+|EM算法 | | | 
+|**11. 迁移学习** | | | 
+| 迁移学习简介|[PDF](/TransferLearning/transfer_HYL.pdf) [Video](https://www.bilibili.com/video/av35932863/?p=27)、[Everything about Transfer Learning](http://transferlearning.xyz/) ||  
+|**12. 强化学习** | | | 
+|蒙特卡洛算法 | | | 
+|价值迭代 | | | 
+|策略迭代 | | |
+|时序差分算法 | | | 
+|**13. 机器学习理论** | | | 
+|VC维 | | | 
 
 注：<br> 
 
@@ -71,7 +71,7 @@
 
 |    Project    |    Target | Data  | Methods | Report | Code|
 | :-------- | :--------| :----- |:-----|:-----|:----|
-
+| | | | | | 
 
 
 
