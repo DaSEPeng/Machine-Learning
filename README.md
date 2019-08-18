@@ -1,7 +1,5 @@
 本模块整理机器学习与深度学习相关内容，涉及机器学习（统计机器学习、概率图模型、神经网络）算法的核心想法、数学推导与代码实践   
 <br>
-**Something Interesting:**
-<center>![MLRoad](MLroad.png)</center>
 
 -------------------------------------------------
 
@@ -90,23 +88,17 @@
 - [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 **机器学习基础**
-- [机器学习](http://58.198.176.86/qwdong/machinelearning/)，董启文老师讲授  
-  - 《统计学习方法（第二版）》，李航著 &emsp; [[Code实现](https://github.com/Dod-o/Statistical-Learning-Method_Code)]&emsp;[[知乎参考读物](https://zhuanlan.zhihu.com/p/36378498)]       
-  - 《机器学习》， 周志华著    
-- [机器学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)， 李宏毅 &emsp; [[Video](https://www.bilibili.com/video/av10590361?from=search&seid=3689001450384077781)]   
-  - 《模式识别与机器学习》， 马春鹏译 
+- 《统计学习方法（第二版）》，李航著 &emsp;[[知乎参考读物](https://zhuanlan.zhihu.com/p/36378498)]  
+  - [机器学习](http://58.198.176.86/qwdong/machinelearning/)，董启文老师讲授 
+- 《模式识别与机器学习》， 马春鹏译
   - PRML相关Slides： [FUDAN PRML](https://zfhu.ac.cn/PRML-Spring19-Fudan/)&emsp;[DaSE PRML](https://github.com/ECNUdase/Seminar-PRML)
-- [CS229N](http://cs229.stanford.edu/syllabus.html)，吴恩达
-- [斯坦福 机器学习](http://open.163.com/special/opencourse/machinelearning.html)，吴恩达
-- [机器学习, 白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)&emsp;[Note](https://github.com/ws13685555932/machine_learning_derivation)
-- 机器学习基石，机器学习技法（SVM部分），台大林轩田
+  - [机器学习, 白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)&emsp;[Note](https://github.com/ws13685555932/machine_learning_derivation) 
+- [机器学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)， 李宏毅 
+- 《机器学习》， 周志华著 
 
 **机器学习实战**
 - [慕课网：Python3玩转机器学习](https://coding.imooc.com/class/169.html)
 - [邹博的机器学习课程](https://www.bilibili.com/video/av23585080?from=search&seid=162992797617774420)
-- [kaggle案例实战班](https://www.bilibili.com/video/av42834527?from=search&seid=7750784603776284569)
-- [Python机器学习Kaggle案例实战](https://www.bilibili.com/video/av35531698?from=search&seid=7750784603776284569)
-- [网易云课堂：Python数据分析与机器学习实战](https://www.bilibili.com/video/av29435521/?p=2)
 
 **机器学习的数学理论**
 - 《Machine Learning：A Probabilistic Perspective》 
