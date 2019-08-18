@@ -81,10 +81,11 @@
 
 # 参考资料
 
-**机器学习入门**
+**入门**
 - [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [Neural Networks and Deep Learning, Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 
-**机器学习基础**
+**基础**
 - 《统计学习方法（第二版）》，李航著 &emsp;[[知乎参考读物](https://zhuanlan.zhihu.com/p/36378498)]  
   - [机器学习](http://58.198.176.86/qwdong/machinelearning/)，董启文老师讲授 
 - 《模式识别与机器学习》， 马春鹏译
@@ -92,12 +93,17 @@
   - [机器学习, 白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)&emsp;[Note](https://github.com/ws13685555932/machine_learning_derivation) 
 - [机器学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)， 李宏毅 
 - 《机器学习》， 周志华著 
+- [李宏毅深度学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
+- [CMU Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
+- [神经网络与深度学习，邱锡鹏著](https://nndl.github.io/)    
+- 《深度学习》，Lan Goodfellow等著
 
-**机器学习实战**
+**实战**
 - [慕课网：Python3玩转机器学习](https://coding.imooc.com/class/169.html)
-- [邹博的机器学习课程](https://www.bilibili.com/video/av23585080?from=search&seid=162992797617774420)
+- [邹博机器学习](https://www.bilibili.com/video/av23585080?from=search&seid=162992797617774420)
+- [邹博深度学习](https://www.bilibili.com/video/av50327129?from=search&seid=1080630462980792268)
 
-**机器学习的数学理论**
+**数学理论**
 - 《Machine Learning：A Probabilistic Perspective》 
 - 《[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)》
   - [Stanford Lagunita: Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
@@ -105,22 +111,8 @@
 - 《The Elements of Statistical Learning》
 - 统计机器学习，机器学习导论，张志华
 - 机器学习，徐亦达
-
-**神经网络入门**
-- [Neural Networks and Deep Learning, Michael Nielsen](http://neuralnetworksanddeeplearning.com/) [[A CHINESE VERSION](NNDL_ch.pdf)]
-
-**神经网络基础**
-- [李宏毅深度学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
-- [CMU Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
-- [神经网络与深度学习，邱锡鹏著](https://nndl.github.io/)    
-- 《深度学习》，Lan Goodfellow等著
-
-**深度学习的数学基础**
 - [Joan Bruna：MathsDL](https://github.com/joanbruna)
 
-**深度学习实战**
-- [慕课网：深度学习之神经网络](https://coding.imooc.com/class/259.html)
-- [邹博深度学习](https://www.bilibili.com/video/av50327129?from=search&seid=1080630462980792268)
 
 
 **附加阅读**
