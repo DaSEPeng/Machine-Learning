@@ -1,7 +1,7 @@
-本模块整理机器学习相关内容，涉及机器学习算法的核心想法、数学推导与代码实践   
+本模块整理机器学习与深度学习相关内容，涉及机器学习（统计机器学习、概率图模型、神经网络）算法的核心想法、数学推导与代码实践   
 <br>
-路线图：
-![Road](road.jpg)
+Something Interesting:
+![MLRoad](MLroad.png)
 
 -------------------------------------------------
 
@@ -119,6 +119,7 @@
 
 **附加阅读**
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
+- [AI算法工程师笔记](http://www.huaxiaozhuan.com/)
 
 
 
