@@ -97,6 +97,7 @@
 - [CMU Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
 - [神经网络与深度学习，邱锡鹏著](https://nndl.github.io/)    
 - 《深度学习》，Lan Goodfellow等著
+- [CMU 10-708: Probabilistic Graphical Models](https://www.bilibili.com/video/av58562152?from=search&seid=9505675466107266524)
 
 **实战**
 - [慕课网：Python3玩转机器学习](https://coding.imooc.com/class/169.html)
