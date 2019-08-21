@@ -100,10 +100,10 @@
 - 《模式识别与机器学习》， 马春鹏译
   - PRML相关Slides： [FUDAN PRML](https://zfhu.ac.cn/PRML-Spring19-Fudan/)&emsp;[DaSE PRML](https://github.com/ECNUdase/Seminar-PRML)
   - [机器学习, 白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)&emsp;[Note](https://github.com/ws13685555932/machine_learning_derivation) 
-- [神经网络与深度学习，邱锡鹏著](https://nndl.github.io/) 
+- [神经网络与深度学习](https://nndl.github.io/) ，邱锡鹏著
     - [机器学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)， 李宏毅 
 - 《深度学习》，Lan Goodfellow等著
-    - [李宏毅深度学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
+    - [李宏毅MLDS](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
     - [CMU Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
 - 《概率图模型：原理与技术》Daphne Koller著
     - [CMU 10-708: Probabilistic Graphical Models](https://sailinglab.github.io/pgm-spring-2019/)
