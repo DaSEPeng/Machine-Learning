@@ -37,8 +37,10 @@
 **进阶**
 - [NN4ML](https://www.bilibili.com/video/av9838961?from=search&seid=12389028944234946948),Hinton
 - [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/), Joan Bruna(Yann LeCun博士后)
+- [Materials for Deep Learning](https://github.com/nndl/materials-for-deep-learning), FDUNLP
 
 **实战**
+- 邱锡鹏老师《神经网络与深度学习》课程作业：[GitHub](https://github.com/nndl/exercise)
 - [慕课网：Python3玩转机器学习](https://coding.imooc.com/class/169.html)
 - [邹博机器学习](https://www.bilibili.com/video/av23585080?from=search&seid=162992797617774420)
 - [邹博深度学习](https://www.bilibili.com/video/av50327129?from=search&seid=1080630462980792268)
