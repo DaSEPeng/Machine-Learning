@@ -33,22 +33,16 @@
 - 《概率图模型：原理与技术》Daphne Koller著
     - [CMU 10-708: Probabilistic Graphical Models](https://sailinglab.github.io/pgm-spring-2019/)
     - [Stanford CS228: Probabilistic Graphical Model](https://cs228.stanford.edu/)
+    
+**进阶**
+- [NN4ML](https://www.bilibili.com/video/av9838961?from=search&seid=12389028944234946948),Hinton
+- [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/), Joan Bruna(Yann LeCun博士后)
 
 **实战**
 - [慕课网：Python3玩转机器学习](https://coding.imooc.com/class/169.html)
 - [邹博机器学习](https://www.bilibili.com/video/av23585080?from=search&seid=162992797617774420)
 - [邹博深度学习](https://www.bilibili.com/video/av50327129?from=search&seid=1080630462980792268)
 
-**数学理论**
-- [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/), Joan Bruna(Yann LeCun博士后)
-- 《Machine Learning：A Probabilistic Perspective》 
-- 《[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)》
-  - [Stanford Lagunita: Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-  - [UCB: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
-- 《The Elements of Statistical Learning》
-- 统计机器学习，机器学习导论，张志华
-- 机器学习，徐亦达
-- [Joan Bruna：MathsDL](https://github.com/joanbruna)
 
 
 
@@ -59,7 +53,13 @@
 - 机器学习（Coursera版本主要关注大规模机器学习；斯坦福版本主要关注理论推导），吴恩达
 - 深度学习（Coursera版本；CS230），吴恩达
 - 机器学习基础、机器学习技法，林轩田
-
+- 《Machine Learning：A Probabilistic Perspective》 
+- 《[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)》
+  - [Stanford Lagunita: Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+  - [UCB: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
+- 《The Elements of Statistical Learning》
+- 统计机器学习，机器学习导论，张志华
+- 机器学习，徐亦达
 
 
 ------------------------------------------------------------
