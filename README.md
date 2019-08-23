@@ -55,6 +55,7 @@
 **附加资料**
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
 - [AI算法工程师笔记](http://www.huaxiaozhuan.com/)
+- [CS229](http://cs229.stanford.edu/syllabus.html)，主要看NOTES与最新论文
 - 机器学习（Coursera版本主要关注大规模机器学习；斯坦福版本主要关注理论推导），吴恩达
 - 深度学习（Coursera版本；CS230），吴恩达
 - 机器学习基础、机器学习技法，林轩田
