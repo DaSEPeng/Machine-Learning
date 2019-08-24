@@ -1,4 +1,5 @@
-本部分整理机器学习与深度学习相关内容，涉及统计机器学习、概率图模型、神经网络等内容
+![road](road.PNG)
+
 <br>
 
 -------------------------------------------------
@@ -9,9 +10,11 @@
 
 | 章节      |    补充资料 | 笔记  | 课后习题 | 编程练习|
 | :-------- | :--------| :----- | :---- | :-- |
+| **第一部分 入门篇**  | ||| | 
 | 第1章 绪论  |  |     | | | 
 | 第2章 机器学习概述  |   |     | | | 
 | 第3章 线性模型  |  |     | | | 
+| **第二部分 基础模型**  | ||| | 
 | 第4章 前馈神经网络  |  |     | | | 
 | 第5章 卷积神经网络  |  |     | | | 
 | 第6章 循环神经网络  |   |     | | | 
@@ -19,11 +22,13 @@
 | 第8章 注意力机制与外部记忆  |   |     | | | 
 | 第9章 无监督学习  |   |     | | | 
 | 第10章 模型独立的学习方法  |  |     | | | 
+| **第三部分 进阶模型**  | ||| | 
 | 第11章 概率图模型  |   |     | | | 
 | 第12章 深度信念网络  |   |     | | | 
 | 第13章 深度生成模型  |   |     | | | 
 | 第14章 深度强化学习  |   |     | | | 
 | 第15章 序列生成模型  |  |     | | | 
+| **附录**  | ||| | 
 | 附录A 线性代数  |  |     | | | 
 | 附录B 微积分  |  |     | | | 
 | 附录C 数学优化  |   |     | | | 
@@ -60,6 +65,7 @@
 **进阶**
 - [NN4ML](https://www.bilibili.com/video/av9838961?from=search&seid=12389028944234946948),Hinton
 - [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/), Joan Bruna(Yann LeCun博士后)
+- [NYU: MACHINE LEARNING](https://davidrosenberg.github.io/ml2019/#resources?utm_source=wechat_session&utm_medium=social&utm_oi=844207196790202368&nsukey=rb5HTvIlGMlnGJ1rCFoqoQomgMOhQe0J00cRZsoLPJxGfWlAVSCxkFUqVHPdpGpSdkcnAH8y9ApeFvaNGir2znHWUe61CH4RyX79R8oqq8CmqWiL3ZbZfuDvSScXl7C8zcXlGVaErk1kRQewyHY8j%2Bee3yq1zuoQ8GagBtKnKdw%3D)
 - [Materials for Deep Learning](https://github.com/nndl/materials-for-deep-learning), FDUNLP
 
 **实战**
@@ -75,6 +81,8 @@
 - 机器学习（Coursera版本主要关注大规模机器学习；斯坦福版本主要关注理论推导），吴恩达
 - 深度学习（Coursera版本；CS230），吴恩达
 - 机器学习基础、机器学习技法，林轩田
+- [36-708 Statistical Methods for Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
+- CMU 10-715 Advanced Introduction to Machine Learning
 - 《Machine Learning：A Probabilistic Perspective》 
 - 《[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)》
   - [Stanford Lagunita: Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
