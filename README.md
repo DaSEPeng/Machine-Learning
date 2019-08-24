@@ -5,7 +5,7 @@
 -------------------------------------------------
 
 # 主要内容
-本部分以[邱锡鹏](https://xpqiu.github.io/)老师的《[神经网路与深度学习](https://nndl.github.io/)》一书为基本架构，以下方“[推荐资料](https://github.com/SimpleLP/Machine-Learning/blob/master/README.md#%E6%8E%A8%E8%8D%90%E8%B5%84%E6%96%99)”为主要参考，以《神经网络与深度学习》的[课程作业](https://github.com/nndl/exercise)为编程练习，不断完善有关机器学习与深度学习的知识体系并提高动手能力
+本部分以[邱锡鹏](https://xpqiu.github.io/)老师的《[神经网路与深度学习](https://nndl.github.io/)》一书为基本架构，以下方“**推荐资料**”为主要参考，以《神经网络与深度学习》的[课程作业](https://github.com/nndl/exercise)为编程练习，不断完善有关机器学习与深度学习的知识体系并提高动手能力
 
 
 | 章节      |    补充资料 | 笔记  | 课后习题 | 编程练习|
