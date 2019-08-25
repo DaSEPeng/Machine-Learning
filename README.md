@@ -14,7 +14,7 @@
 | :-------- | :--------| :----- | :---- | :-- |
 | **第一部分 入门篇**  | ||| | 
 | 第1章 绪论  |  |     | | | 
-| 第2章 机器学习概述  |   |     | | | 
+| 第2章 机器学习概述  | [Regression, Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/Regression.pdf), [线性回归，白板推导系列](https://www.bilibili.com/video/av31989606/)  |  [LinearRegression](LinearRegression/LinearRegression.pdf)   | | | 
 | 第3章 线性模型  |  |     | | | 
 | **第二部分 基础模型**  | ||| | 
 | 第4章 前馈神经网络  |  |     | | | 
