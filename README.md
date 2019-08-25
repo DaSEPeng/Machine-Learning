@@ -7,7 +7,7 @@
 # 主要内容
 - 核心内容：[神经网路与深度学习](https://nndl.github.io/)
 - 参考资料：下方“推荐资料”
-- 编程练习：[课程作业](https://github.com/nndl/exercise)
+- 编程练习：[NNDL课程作业](https://github.com/nndl/exercise)，[李宏毅机器学习2019HW](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 
 
 | 章节      |    补充资料 | 笔记  | 课后习题 | 编程练习|
