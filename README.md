@@ -25,7 +25,7 @@
 | 第9章 无监督学习  | Hung-yi Lee: [Unsupervised Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [More Auto-encoder ](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html) <br>李航：《统计学习方法（第二版）》第二篇<br>Pang-Ning Tan：《数据挖掘导论》聚类分析<br>周志华：《机器学习》聚类、降维|     | | | 
 | 第10章 模型独立的学习方法  | Hung-yi Lee: [Ensemble](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Semi-supervised Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Transfer Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Life-long learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [Meta Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), []()|     | | | 
 | **第三部分 进阶模型**  | ||| | 
-| 第11章 概率图模型  |Hung-yi Lee: []()   |     | | | 
+| 第11章 概率图模型  |Hung-yi Lee: [Graphical Model, Gibbs Sampling](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html), [Markov Logic Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html), [Structured Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)  |     | | | 
 | 第12章 深度信念网络  |Hung-yi Lee: []()   |     | | | 
 | 第13章 深度生成模型  |Hung-yi Lee: [Deep Generative Model](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Generative Adversarial Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)   |     | | | 
 | 第14章 深度强化学习  |Hung-yi Lee: [Deep Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Deep Reinforcement Learning2](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)   |     | | | 
@@ -43,7 +43,9 @@
 - [Explainable ML](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 - [Network Compression](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 - [Pointer Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
-- []()
+- [Matrix Factorization](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)
+- [Spatial Transformer Layer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html)
+- [Highway Network & Grid LSTM](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html)
 - [Generalization](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
 
 **更新日志**
