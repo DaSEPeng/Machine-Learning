@@ -15,7 +15,7 @@
 | **第一部分 入门篇**  | ||| | 
 | 第1章 绪论  |  |     | | [chap1](https://github.com/SimpleLP/exercise_nndl/tree/master/chap1_warmup)| 
 | 第2章 机器学习概述  |Hung-yi Lee: [Introduction2017](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Introduction2019](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [Regression](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [BiasAndVar](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Gradient Descent](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html) <br>白板推导系列：[开篇](https://github.com/shuhuai007/Machine-Learning-Session), [线性回归](https://github.com/shuhuai007/Machine-Learning-Session)|[线性回归](LinearRegression/LinearRegression.pdf) | | 
-| 第3章 线性模型  |  |     | | | 
+| 第3章 线性模型  | Hung-yi Lee: [Probabilistic Generative Model](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Logistic Regression](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [SVM](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html) |     | | | 
 | **第二部分 基础模型**  | ||| | 
 | 第4章 前馈神经网络  |  |     | | | 
 | 第5章 卷积神经网络  |  |     | | | 
