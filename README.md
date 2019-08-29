@@ -46,6 +46,7 @@
 - [Matrix Factorization](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)
 - [Spatial Transformer Layer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html)
 - [Highway Network & Grid LSTM](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html)
+- [Flow](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 - [Generalization](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
 
 **更新日志**
