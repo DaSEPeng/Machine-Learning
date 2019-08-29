@@ -17,25 +17,31 @@
 | 第2章 机器学习概述  |Hung-yi Lee: [Introduction2017](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Introduction2019](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [Regression](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [BiasAndVar](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Gradient Descent](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html) <br>白板推导系列：[开篇](https://github.com/shuhuai007/Machine-Learning-Session), [线性回归](https://github.com/shuhuai007/Machine-Learning-Session)|[线性回归](LinearRegression/LinearRegression.pdf) | | 
 | 第3章 线性模型  | Hung-yi Lee: [Probabilistic Generative Model](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Logistic Regression](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [SVM](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html) |     | | | 
 | **第二部分 基础模型**  | ||| | 
-| 第4章 前馈神经网络  | Hung-yi Lee:[ Introduction of Deep Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Backpropagation](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [“Hello world” of deep learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)|     | | | 
-| 第5章 卷积神经网络  | Hung-yi Lee:[Convolutional Neural Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Why Deep](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)  |     | | | 
-| 第6章 循环神经网络  | Hung-yi Lee:[Recurrent Neural Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)  |     | | | 
+| 第4章 前馈神经网络  | Hung-yi Lee: [ Introduction of Deep Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Backpropagation](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [“Hello world” of deep learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)|     | | | 
+| 第5章 卷积神经网络  | Hung-yi Lee: [Convolutional Neural Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Why Deep](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)  |     | | | 
+| 第6章 循环神经网络  | Hung-yi Lee: [Recurrent Neural Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)  |     | | | 
 | 第7章 网络优化与正则化   |Hung-yi Lee: [Tips for deep learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)   |     | | | 
-| 第8章 注意力机制与外部记忆  |   |     | | | 
-| 第9章 无监督学习  | Hung-yi Lee: [Unsupervised Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html) <br>李航：《统计学习方法（第二版）》第二篇<br>Pang-Ning Tan：《数据挖掘导论》聚类分析<br>周志华：《机器学习》聚类、降维|     | | | 
-| 第10章 模型独立的学习方法  | Hung-yi Lee:[Ensemble](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Semi-supervised Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html),[Transfer Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html) ,[Life-long learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [Meta Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), []()|     | | | 
+| 第8章 注意力机制与外部记忆  |Hung-yi Lee: [Attention-based Model](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html)   |     | | | 
+| 第9章 无监督学习  | Hung-yi Lee: [Unsupervised Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [More Auto-encoder ](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html) <br>李航：《统计学习方法（第二版）》第二篇<br>Pang-Ning Tan：《数据挖掘导论》聚类分析<br>周志华：《机器学习》聚类、降维|     | | | 
+| 第10章 模型独立的学习方法  | Hung-yi Lee: [Ensemble](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Semi-supervised Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Transfer Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Life-long learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [Meta Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), []()|     | | | 
 | **第三部分 进阶模型**  | ||| | 
-| 第11章 概率图模型  |   |     | | | 
-| 第12章 深度信念网络  |   |     | | | 
-| 第13章 深度生成模型  |   |     | | | 
-| 第14章 深度强化学习  |   |     | | | 
-| 第15章 序列生成模型  |  |     | | | 
+| 第11章 概率图模型  |Hung-yi Lee: []()   |     | | | 
+| 第12章 深度信念网络  |Hung-yi Lee: []()   |     | | | 
+| 第13章 深度生成模型  |Hung-yi Lee: [Deep Generative Model](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)   |     | | | 
+| 第14章 深度强化学习  |Hung-yi Lee: [Deep Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)   |     | | | 
+| 第15章 序列生成模型  |Hung-yi Lee: [Word Embedding](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Sequence-to-sequence and Attention](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Transformer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [BERT](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html) |     | | | 
 | **附录**  | ||| | 
 | 附录A 线性代数  |  |     | | | 
 | 附录B 微积分  |  |     | | | 
 | 附录C 数学优化  |   |     | | | 
 | 附录D 概率论  |   |     | | | 
 | 附录E 信息论  |   |     | | | 
+
+补充：
+- [Anomaly Detection](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
+- [Adversarial Attack](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
+- [Explainable ML](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
+- [Network Compression](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 
 **更新日志**
 - 建立网页，2019/8/24
