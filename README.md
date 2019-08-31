@@ -17,7 +17,7 @@
 | **第2章 机器学习概述**| | | | | 
 | 机器学习概述  |Hung-yi Lee: [Introduction2017](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Introduction2019](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [BiasAndVar](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html) <br>白板推导系列：[开篇](https://github.com/shuhuai007/Machine-Learning-Session)|[PPT](nndl/chap2/chap2.pptx) [PDF](nndl/chap2/chap2.pdf) | ||
 |线性回归 |Hung-yi Lee: [Regression](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)<br>白板推导系列：[线性回归](https://github.com/shuhuai007/Machine-Learning-Session) |[PPT](nndl/chap2/LinearRegression.pptx) [PDF](nndl/chap2/LinearRegression.pdf)| | | 
-|梯度下降 |Hung-yi Lee: [Gradient Descent](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)| | | | 
+|梯度下降 |Hung-yi Lee: [Gradient Descent](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)|[PPT](nndl/chap2/GradientDescent.pptx) [PDF](nndl/chap2/GradientDescent.pdf) | | | 
 |**第3章 线性模型** | | | | |
 |感知机模型 |白板推导系列：[线性分类：感知机](https://github.com/shuhuai007/Machine-Learning-Session)| | | |
 | 逻辑回归与Softmax回归  | Hung-yi Lee: [Probabilistic Generative Model](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Logistic Regression](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)<br>白板推导系列：[线性分类](https://github.com/shuhuai007/Machine-Learning-Session)| | | | 
