@@ -35,7 +35,7 @@
 | 附录B 微积分  |  |     | | | 
 | 附录C 数学优化  |   |     | | | 
 | 附录D 概率论  |   |     | | | 
-| 附录E 信息论  |   |     | | | 
+| 附录E 信息论  |邹博：[各种距离之间的关系](https://www.bilibili.com/video/av23585080/?p=16)   |     | | | 
 
 补充：
 - [Anomaly Detection](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
