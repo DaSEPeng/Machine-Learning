@@ -37,7 +37,7 @@
 | **第13章 深度生成模型**  |Hung-yi Lee: [Deep Generative Model](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Generative Adversarial Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)   |     | | | 
 | **第14章 深度强化学习**  |Hung-yi Lee: [Deep Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Deep Reinforcement Learning2](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)   |     | | | 
 | **第15章 序列生成模型**  |Hung-yi Lee: [Word Embedding](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Sequence-to-sequence and Attention](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Transformer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [BERT](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [Seq-to-seq Learning by CNN](https://arxiv.org/pdf/1705.03122.pdf) |     | | | 
-| **附录**  |白板推导系列：[数学基础](https://github.com/shuhuai007/Machine-Learning-Session) ||| | 
+| **附录**  |白板推导系列：[数学基础](https://github.com/shuhuai007/Machine-Learning-Session)<br> 邹博：[数学基础](https://www.bilibili.com/video/av23585080/?p=8) ||| | 
 | 附录A 线性代数  |  |     | | | 
 | 附录B 微积分  |  |     | | | 
 | 附录C 数学优化  |   |     | | | 
