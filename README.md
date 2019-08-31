@@ -6,7 +6,7 @@
 
 # 主要内容
 - 核心内容：[神经网路与深度学习](https://nndl.github.io/)
-- 参考资料：下方“推荐资料”
+- 主要参考：Hung-yi Lee 机器学习与深度学习，白板推导系列
 - 编程练习：[NNDL课程作业](https://github.com/nndl/exercise)，[李宏毅机器学习2019HW](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 
 
