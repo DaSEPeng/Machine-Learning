@@ -118,6 +118,7 @@
 - 《The Elements of Statistical Learning》
 - 统计机器学习，机器学习导论，张志华
 - 机器学习，徐亦达
+- [变分法](https://www.youtube.com/watch?v=IZwQ2TaraNs&list=PL090BE404EFE679E9)
 
 
 ------------------------------------------------------------
