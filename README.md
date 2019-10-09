@@ -33,7 +33,7 @@
 | **第10章 模型独立的学习方法**  | Hung-yi Lee: [Ensemble](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Semi-supervised Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Transfer Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Life-long learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [Meta Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)|     | | | 
 | **第三部分 进阶模型**  | ||| | 
 | **第11章 概率图模型**  |Hung-yi Lee: [Graphical Model, Gibbs Sampling](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html), [Markov Logic Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html), [Structured Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html), [SVM^struct](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html), [Learning with Hidden Information](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html)<br>白板推导系列：[指数族分布](https://github.com/shuhuai007/Machine-Learning-Session), [概率图模型](https://github.com/shuhuai007/Machine-Learning-Session), [EM](https://github.com/shuhuai007/Machine-Learning-Session), [EM2](https://space.bilibili.com/97068901/dynamic), [GMM](https://github.com/shuhuai007/Machine-Learning-Session), [HMM](https://github.com/shuhuai007/Machine-Learning-Session), [CRF](https://github.com/shuhuai007/Machine-Learning-Session), [VI](https://github.com/shuhuai007/Machine-Learning-Session), [VI2](https://space.bilibili.com/97068901/dynamic), [MCMC](https://github.com/shuhuai007/Machine-Learning-Session)  |     | | | 
-| **第12章 深度信念网络**  |白板推导系列：[受限玻尔兹曼机](https://github.com/shuhuai007/Machine-Learning-Session) |     | | | 
+| **第12章 深度信念网络**  |Hung-yi Lee: [受限玻尔兹曼机、深度信念网络参考资料](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/auto.pdf)<br>白板推导系列：[受限玻尔兹曼机](https://github.com/shuhuai007/Machine-Learning-Session) |     | | | 
 | **第13章 深度生成模型**  |Hung-yi Lee: [Deep Generative Model](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Generative Adversarial Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)   |     | | | 
 | **第14章 深度强化学习**  |Hung-yi Lee: [Deep Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Deep Reinforcement Learning2](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)   |     | | | 
 | **第15章 序列生成模型**  |Hung-yi Lee: [Word Embedding](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Sequence-to-sequence and Attention](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Transformer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [BERT](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [Seq-to-seq Learning by CNN](https://arxiv.org/pdf/1705.03122.pdf) |     | | | 
@@ -118,7 +118,6 @@
 - 《The Elements of Statistical Learning》
 - 统计机器学习，机器学习导论，张志华
 - 机器学习，徐亦达
-- [变分法](https://www.youtube.com/watch?v=IZwQ2TaraNs&list=PL090BE404EFE679E9)
 
 
 ------------------------------------------------------------
