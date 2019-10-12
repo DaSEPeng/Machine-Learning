@@ -16,7 +16,6 @@
 |感知机模型 |白板推导系列：[线性分类——感知机](https://github.com/shuhuai007/Machine-Learning-Session)| | | 
 | 逻辑回归与Softmax回归  | Hung-yi Lee: [Probabilistic Generative Model](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Logistic Regression](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)<br>白板推导系列：[线性分类](https://github.com/shuhuai007/Machine-Learning-Session)| | | 
 |支持向量机|Hung-yi Lee: [SVM](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML16.html)<br>白板推导系列：[SVM](https://github.com/shuhuai007/Machine-Learning-Session), [核方法](https://github.com/shuhuai007/Machine-Learning-Session)  | | | 
-|小结 | | | | 
 | **第二部分 基础模型**  | ||| 
 | **第4章 前馈神经网络**  | Hung-yi Lee: [ Introduction of Deep Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Backpropagation](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Computational Graph](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html), [“Hello world” of deep learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html)<br>白板推导系列：[前馈神经网络](https://www.bilibili.com/video/av40204935)|     | | 
 | **第5章 卷积神经网络**  | Hung-yi Lee: [Convolutional Neural Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Why Deep](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Why Deep Structure?](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)  |     | | 
