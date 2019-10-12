@@ -23,7 +23,7 @@
 | 第12章 深度信念网络  |Hung-yi Lee: [受限玻尔兹曼机、深度信念网络参考资料](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/auto.pdf)<br>白板推导系列：[受限玻尔兹曼机](https://github.com/shuhuai007/Machine-Learning-Session) |     | | 
 | 第13章 深度生成模型  |Hung-yi Lee: [Deep Generative Model](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Generative Adversarial Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)   |     | | 
 | 第14章 深度强化学习 |Hung-yi Lee: [Deep Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Deep Reinforcement Learning2](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)   |     | | 
-| 第15章 序列生成模型  |Hung-yi Lee: [Word Embedding](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Sequence-to-sequence and Attention](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Transformer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [BERT](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [Seq-to-seq Learning by CNN](https://arxiv.org/pdf/1705.03122.pdf)<br>其他：[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)、[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) |     | | 
+| 第15章 序列生成模型  |Hung-yi Lee: [Word Embedding](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Sequence-to-sequence and Attention](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Transformer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [BERT](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [Seq-to-seq Learning by CNN](https://arxiv.org/pdf/1705.03122.pdf)<br>其他：[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html), [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) |     | | 
 | **附录**  |白板推导系列：[数学基础](https://github.com/shuhuai007/Machine-Learning-Session)<br> 邹博：[数学基础](https://www.bilibili.com/video/av23585080/?p=8), [各种距离之间的关系](https://www.bilibili.com/video/av23585080/?p=16)  ||| 
 
 补充：
@@ -57,7 +57,6 @@
 - 《机器学习》， 周志华著；
 - 《统计学习方法（第二版）》，李航著 &emsp;[[知乎参考读物](https://zhuanlan.zhihu.com/p/36378498)]  
 - 《模式识别与机器学习》， 马春鹏译
-  - PRML相关Slides： [FUDAN PRML](https://zfhu.ac.cn/PRML-Spring19-Fudan/)&emsp;[DaSE PRML](https://github.com/ECNUdase/Seminar-PRML)
   - [机器学习, 白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)&emsp;[Note](https://github.com/ws13685555932/machine_learning_derivation) 
 - 《深度学习》，Lan Goodfellow等著
     - [CMU Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
@@ -67,19 +66,15 @@
     
 **进阶**
 - [NN4ML](https://www.bilibili.com/video/av9838961?from=search&seid=12389028944234946948),Hinton
-- [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/), Joan Bruna(Yann LeCun博士后)
+- [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/), Joan Bruna(Yann LeCun 博士后)
 - [NYU: MACHINE LEARNING](https://davidrosenberg.github.io/ml2019/#resources?utm_source=wechat_session&utm_medium=social&utm_oi=844207196790202368&nsukey=rb5HTvIlGMlnGJ1rCFoqoQomgMOhQe0J00cRZsoLPJxGfWlAVSCxkFUqVHPdpGpSdkcnAH8y9ApeFvaNGir2znHWUe61CH4RyX79R8oqq8CmqWiL3ZbZfuDvSScXl7C8zcXlGVaErk1kRQewyHY8j%2Bee3yq1zuoQ8GagBtKnKdw%3D)
 - [Materials for Deep Learning](https://github.com/nndl/materials-for-deep-learning), FDUNLP
 
 
 
 **附加资料**
-- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
 - [AI算法工程师笔记](http://www.huaxiaozhuan.com/)
 - [CS229](http://cs229.stanford.edu/syllabus.html)，主要看NOTES与最新论文
-- 机器学习（Coursera版本主要关注大规模机器学习；斯坦福版本主要关注理论推导），吴恩达
-- 深度学习（Coursera版本；CS230），吴恩达
-- 机器学习基础、机器学习技法，林轩田
 - [36-708 Statistical Methods for Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
 - CMU 10-715 Advanced Introduction to Machine Learning
 - 《Machine Learning：A Probabilistic Perspective》 
@@ -87,11 +82,7 @@
   - [Stanford Lagunita: Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   - [UCB: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 - 《The Elements of Statistical Learning》
-- 统计机器学习，机器学习导论，张志华
-- 机器学习，徐亦达
-- [慕课网：Python3玩转机器学习](https://coding.imooc.com/class/169.html)
-- [邹博机器学习](https://www.bilibili.com/video/av23585080?from=search&seid=162992797617774420)
-- [邹博深度学习](https://www.bilibili.com/video/av50327129?from=search&seid=1080630462980792268)
+- 其他：机器学习、深度学习，吴恩达；统计机器学习、机器学习导论，张志华；机器学习、深度学习，邹博；机器学习，徐亦达；机器学习基础、机器学习技法，林轩田；[慕课网：Python3玩转机器学习](https://coding.imooc.com/class/169.html)
 
 
 ------------------------------------------------------------
