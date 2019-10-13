@@ -1,5 +1,5 @@
 # 主要内容
-- 核心内容：[神经网路与深度学习](https://nndl.github.io/)，邱锡鹏老师著
+- 核心内容：[神经网络与深度学习](https://nndl.github.io/)，邱锡鹏老师著
 - 主要参考：[Hung-yi Lee 机器学习与深度学习系列](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)，[白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)
 - 编程练习：[NNDL课程作业](https://github.com/nndl/exercise)，[李宏毅机器学习2019HW](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
 
