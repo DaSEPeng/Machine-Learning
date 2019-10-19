@@ -1,3 +1,4 @@
+<br>
 - 教材：[神经网络与深度学习](https://nndl.github.io/)，邱锡鹏老师著
 - 主要参考：[Hung-yi Lee 机器学习与深度学习系列](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)，[白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)
 
@@ -36,6 +37,8 @@
 - [贝叶斯线性回归](https://github.com/shuhuai007/Machine-Learning-Session)
 - [高斯过程回归](https://github.com/shuhuai007/Machine-Learning-Session)
 
+News:
+- 2019/10/19: 由于菜鸡本人要准备考研，近期暂时无法提供完整的课后习题的解答了，也无法提供完整的编程练习的解答（emmm...一方面也是因为邱老师的编程练习还没有整理好，还在不断更新之中，可能要相对稳定之后再视情况完成），还请见谅！
 
 
 --------------------------------------------------
@@ -66,7 +69,7 @@
 
 
 **附加资料**
-- [NNDL课程作业](https://github.com/nndl/exercise),还没有整理好，建议后期练习
+- [NNDL课程作业](https://github.com/nndl/exercise), 还没有整理好，建议后期练习
 - [AI算法工程师笔记](http://www.huaxiaozhuan.com/)
 - [CS229](http://cs229.stanford.edu/syllabus.html)，主要看NOTES与最新论文
 - [36-708 Statistical Methods for Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
