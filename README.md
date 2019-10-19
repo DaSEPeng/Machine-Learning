@@ -1,8 +1,6 @@
 # 主要内容
 - 核心内容：[神经网络与深度学习](https://nndl.github.io/)，邱锡鹏老师著
 - 主要参考：[Hung-yi Lee 机器学习与深度学习系列](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)，[白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)
-- 编程练习：[NNDL课程作业](https://github.com/nndl/exercise)，[李宏毅机器学习2019HW](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
-
 
 | 章节      |    补充资料 |  课后习题 |
 | :-------- | :--------|:---- |
@@ -69,6 +67,7 @@
 
 
 **附加资料**
+- [NNDL课程作业](https://github.com/nndl/exercise),还没有整理好，建议后期练习
 - [AI算法工程师笔记](http://www.huaxiaozhuan.com/)
 - [CS229](http://cs229.stanford.edu/syllabus.html)，主要看NOTES与最新论文
 - [36-708 Statistical Methods for Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
