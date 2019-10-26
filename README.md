@@ -22,7 +22,7 @@
 | 第13章 深度生成模型  |Hung-yi Lee: [Deep Generative Model](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Generative Adversarial Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html), [Adversarial Attack](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)   |     | 
 | 第14章 深度强化学习 |Hung-yi Lee: [Deep Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Deep Reinforcement Learning2](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)   |     | 
 | 第15章 序列生成模型  |Hung-yi Lee: [Word Embedding](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Sequence-to-sequence and Attention](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Transformer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [BERT](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [Seq-to-seq Learning by CNN](https://arxiv.org/pdf/1705.03122.pdf), [Spatial Transformer Layer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html)<br>其他：[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html), [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) |     | 
-| **附录**  |白板推导系列：[数学基础](https://github.com/shuhuai007/Machine-Learning-Session)<br> 邹博：[数学基础](https://www.bilibili.com/video/av23585080/?p=8), [各种距离之间的关系](https://www.bilibili.com/video/av23585080/?p=16)  ||
+| **附录**  |白板推导系列：[数学基础](https://github.com/shuhuai007/Machine-Learning-Session)<br>3BlueBrown：[线性代数的本质](https://www.bilibili.com/video/av44855426)  ||
 
 补充：
 - [Anomaly Detection](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
@@ -82,7 +82,7 @@ News:
   - [Stanford Lagunita: Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   - [UCB: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 - 《The Elements of Statistical Learning》
-- 其他：机器学习、深度学习，吴恩达；统计机器学习、机器学习导论，张志华；机器学习、深度学习，邹博；机器学习，徐亦达；机器学习基础、机器学习技法，林轩田；[慕课网：Python3玩转机器学习](https://coding.imooc.com/class/169.html)
+- 其他：机器学习、深度学习，吴恩达；统计机器学习、机器学习导论，张志华；机器学习（各距离之间的关系）、深度学习，邹博；机器学习，徐亦达；机器学习基础、机器学习技法，林轩田；[慕课网：Python3玩转机器学习](https://coding.imooc.com/class/169.html)
 
 
 ------------------------------------------------------------
