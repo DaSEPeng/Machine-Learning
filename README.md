@@ -1,5 +1,5 @@
 **教材:**
-- [神经网络与深度学习](https://nndl.github.io/)，邱锡鹏老师著
+- [神经网络与深度学习](https://nndl.github.io/)，邱锡鹏老师著\\
 **主要参考:**
 - [Hung-yi Lee 机器学习与深度学习系列](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 - [白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)
