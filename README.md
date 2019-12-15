@@ -67,7 +67,7 @@ News:
 - [NN4ML](https://www.bilibili.com/video/av9838961?from=search&seid=12389028944234946948),Hinton
 - [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/), Joan Bruna(Yann LeCun 博士后)
 - [NYU: MACHINE LEARNING](https://davidrosenberg.github.io/ml2019/#resources?utm_source=wechat_session&utm_medium=social&utm_oi=844207196790202368&nsukey=rb5HTvIlGMlnGJ1rCFoqoQomgMOhQe0J00cRZsoLPJxGfWlAVSCxkFUqVHPdpGpSdkcnAH8y9ApeFvaNGir2znHWUe61CH4RyX79R8oqq8CmqWiL3ZbZfuDvSScXl7C8zcXlGVaErk1kRQewyHY8j%2Bee3yq1zuoQ8GagBtKnKdw%3D)
-- [Materials for Deep Learning](https://github.com/nndl/materials-for-deep-learning), FDUNLP
+- [Materials for Deep Learning](https://github.com/nndl/materials-for-deep-learning), FudanNLP
 - [Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/) 
 
 
