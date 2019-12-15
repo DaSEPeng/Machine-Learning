@@ -2,12 +2,11 @@
 - [神经网络与深度学习](https://nndl.github.io/)，[邱锡鹏](https://xpqiu.github.io/)老师著
 
 **视频资料:**
-- [Hung-yi Lee 机器学习与深度学习系列](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
+- [机器学习与深度学习系列](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)，[李宏毅](http://speech.ee.ntu.edu.tw/~tlkagk/index.html)老师
 - [白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)
 
 备注：
-- 视频资料在B站均有公布；
-- 感谢几位老师的分享！
+- 视频资料在B站均有公布，感谢几位老师的分享！
 
 | 章节      |    补充资料 |  课后习题 |
 | :-------- | :--------|:---- |
