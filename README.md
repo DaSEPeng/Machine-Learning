@@ -68,7 +68,8 @@
 - 《概率图模型：原理与技术》Daphne Koller著
     - [CMU 10-708: Probabilistic Graphical Models](https://sailinglab.github.io/pgm-spring-2019/)
     - [Stanford CS228: Probabilistic Graphical Model](https://cs228.stanford.edu/)
-    
+- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
+
 **进阶**
 - [NN4ML](https://www.bilibili.com/video/av9838961?from=search&seid=12389028944234946948),Hinton
 - [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/), Joan Bruna(Yann LeCun 博士后)
