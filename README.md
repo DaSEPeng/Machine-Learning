@@ -28,7 +28,7 @@
 | 第13章 深度生成模型  |李: [Deep Generative Model](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Generative Adversarial Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html), [Adversarial Attack](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html) <br>其他：[CS228 VAE](https://ermongroup.github.io/cs228-notes/extras/vae/), [科学空间 VAE系列](https://spaces.ac.cn/archives/5253) |     | 
 | 第14章 深度强化学习 |李: [Deep Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Deep Reinforcement Learning2](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)   |     | 
 | 第15章 序列生成模型  |李: [Word Embedding](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Sequence-to-sequence and Attention](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Transformer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [BERT](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [Seq-to-seq Learning by CNN](https://arxiv.org/pdf/1705.03122.pdf), [Spatial Transformer Layer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html)<br>其他：[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html), [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) |     | 
-| **附录**  |白：[数学基础](https://github.com/shuhuai007/Machine-Learning-Session)<br>3BlueBrown：[线性代数的本质](https://www.bilibili.com/video/av44855426)  ||
+| **附录**  |白：[数学基础](https://github.com/shuhuai007/Machine-Learning-Session)<br>3BlueBrown：[线性代数的本质](https://www.bilibili.com/video/av44855426)<br>刘建平Pinard：[机器学习中的矩阵向量求导](https://www.cnblogs.com/pinard/category/894690.html)  ||
 
 补充：
 - [Anomaly Detection](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)
@@ -47,8 +47,6 @@
 - 2019/10/25：根据目前学的内容，整理了一份机器学习主干知识的统一架构，还没有完全梳理好（尤其是强化学习与概率图模型部分），但是最基本的架构已经确定了，分享出来供大家参考，后面我会继续调整，并做出必要的解释，有疑问或建议欢迎Issue！
 
 ![UnifiedFrame](UnifiedFrame.png)
-
-- 2019/11/01: 推荐李宏毅老师的 “[深度学习的终结者](DL_Mythbusters.pdf)” 系列研究课题，会让你对各种模型有更深入的理解，完成的话应该能够算是中级选手了，这份资料也是自己后面学习的重点，一起加油！
 
 --------------------------------------------------
 
