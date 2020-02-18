@@ -67,19 +67,13 @@
     - [CMU 10-708: Probabilistic Graphical Models](https://sailinglab.github.io/pgm-spring-2019/)
     - [Stanford CS228: Probabilistic Graphical Model](https://cs228.stanford.edu/)
 
-- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 
 **进阶**
+- [NNDL课程作业](https://github.com/nndl/exercise), 还没有整理好，建议后期练习
 - [NN4ML](https://www.bilibili.com/video/av9838961?from=search&seid=12389028944234946948),Hinton
 - [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/), Joan Bruna(Yann LeCun 博士后)
-- [NYU: MACHINE LEARNING](https://davidrosenberg.github.io/ml2019/#resources?utm_source=wechat_session&utm_medium=social&utm_oi=844207196790202368&nsukey=rb5HTvIlGMlnGJ1rCFoqoQomgMOhQe0J00cRZsoLPJxGfWlAVSCxkFUqVHPdpGpSdkcnAH8y9ApeFvaNGir2znHWUe61CH4RyX79R8oqq8CmqWiL3ZbZfuDvSScXl7C8zcXlGVaErk1kRQewyHY8j%2Bee3yq1zuoQ8GagBtKnKdw%3D)
 - [Materials for Deep Learning](https://github.com/nndl/materials-for-deep-learning), FudanNLP
 - [Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/) 
-
-
-
-**附加资料**
-- [NNDL课程作业](https://github.com/nndl/exercise), 还没有整理好，建议后期练习
 - [AI算法工程师笔记](http://www.huaxiaozhuan.com/)
 - [CS229](http://cs229.stanford.edu/syllabus.html)，主要看NOTES与最新论文
 - [36-708 Statistical Methods for Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
@@ -89,6 +83,7 @@
   - [Stanford Lagunita: Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   - [UCB: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 - 《The Elements of Statistical Learning》
+- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 - 其他：机器学习、深度学习，吴恩达；统计机器学习、机器学习导论，张志华；机器学习（各距离之间的关系）、深度学习，邹博；机器学习，徐亦达；机器学习基础、机器学习技法，林轩田；[慕课网：Python3玩转机器学习](https://coding.imooc.com/class/169.html)
 
 
