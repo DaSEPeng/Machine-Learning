@@ -27,7 +27,7 @@
 | 第12章 深度信念网络  |李: [受限玻尔兹曼机、深度信念网络参考资料](http://speech.ee.ntu.edu.tw/~tlkagk/courses/ML_2017/Lecture/auto.pdf)<br>白：[受限玻尔兹曼机](https://github.com/shuhuai007/Machine-Learning-Session)，[深度信念网络](https://space.bilibili.com/97068901/dynamic) |     | 
 | 第13章 深度生成模型  |李: [Deep Generative Model](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Generative Adversarial Network](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html), [Adversarial Attack](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html) <br>其他：[CS228 VAE](https://ermongroup.github.io/cs228-notes/extras/vae/), [科学空间 VAE系列](https://spaces.ac.cn/archives/5253) |     | 
 | 第14章 深度强化学习 |李: [Deep Reinforcement Learning](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Deep Reinforcement Learning2](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)   |     | 
-| 第15章 序列生成模型  |李: [Word Embedding](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Sequence-to-sequence and Attention](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Transformer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [BERT](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [Seq-to-seq Learning by CNN](https://arxiv.org/pdf/1705.03122.pdf), [Spatial Transformer Layer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html)<br>其他：[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html), [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) |     | 
+| 第15章 序列生成模型  |李: [Word Embedding](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Sequence-to-sequence and Attention](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html), [Transformer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [BERT](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html), [Seq-to-seq Learning by CNN](https://arxiv.org/pdf/1705.03122.pdf), [Spatial Transformer Layer](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html)<br>其他：[word2vec中的数学原理详解](https://wenku.baidu.com/view/042a0019767f5acfa1c7cd96.html)，[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html), [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) |     | 
 | **附录**  |白：[数学基础](https://github.com/shuhuai007/Machine-Learning-Session)<br>3BlueBrown：[线性代数的本质](https://www.bilibili.com/video/av44855426)<br>刘建平Pinard：[机器学习中的矩阵向量求导](https://www.cnblogs.com/pinard/category/894690.html)  ||
 
 补充：
@@ -42,11 +42,14 @@
 - [高斯网络](https://github.com/shuhuai007/Machine-Learning-Session)
 - [贝叶斯线性回归](https://github.com/shuhuai007/Machine-Learning-Session)
 - [高斯过程回归](https://github.com/shuhuai007/Machine-Learning-Session)
+- 更多更新请关注博主个人空间：[shuhuai008的个人空间](https://space.bilibili.com/97068901/video)
 
 **News:**
-- 2019/10/25：根据目前学的内容，整理了一份机器学习主干知识的统一架构，还没有完全梳理好（尤其是强化学习与概率图模型部分），但是最基本的架构已经确定了，分享出来供大家参考，后面我会继续调整，并做出必要的解释，有疑问或建议欢迎Issue！
+- 2019/10/25：根据目前学的内容，整理了一份机器学习主干知识的统一架构，还没有完全梳理好（尤其是强化学习与概率图模型部分），但是最基本的架构已经确定了，分享出来供大家参考，后面我会继续调整，并做出必要的解释，有疑问或建议欢迎issue！
 
 ![UnifiedFrame](UnifiedFrame.png)
+
+- 2020/02/22：强烈安利[Ben Trevett](https://bentrevett.com/blog/)的一系列PyTorch教程！！
 
 --------------------------------------------------
 
@@ -57,8 +60,9 @@
 - [Neural Networks and Deep Learning, Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 
 **基础**
+- 《统计学习方法（第二版）》，李航著 &emsp;[[知乎参考读物](https://zhuanlan.zhihu.com/p/36378498)]
 - 《机器学习》， 周志华著；
-- 《统计学习方法（第二版）》，李航著 &emsp;[[知乎参考读物](https://zhuanlan.zhihu.com/p/36378498)]  
+- [CS229: Machine Learning](http://cs229.stanford.edu/)
 - 《模式识别与机器学习》， 马春鹏译
   - [机器学习, 白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)&emsp;[Note](https://github.com/ws13685555932/machine_learning_derivation) 
 - 《深度学习》，Lan Goodfellow等著
@@ -66,24 +70,26 @@
 - 《概率图模型：原理与技术》Daphne Koller著
     - [CMU 10-708: Probabilistic Graphical Models](https://sailinglab.github.io/pgm-spring-2019/)
     - [Stanford CS228: Probabilistic Graphical Model](https://cs228.stanford.edu/)
+    - [Samsung Deep Bayes](http://deepbayes.ru/)
+- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
+- [CS285: Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [CS294-158: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+- [CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
+- [CS229T：Statistical Learning Theory](http://web.stanford.edu/class/cs229t/)
 
 
 **进阶**
-- [NNDL课程作业](https://github.com/nndl/exercise), 还没有整理好，建议后期练习
-- [NN4ML](https://www.bilibili.com/video/av9838961?from=search&seid=12389028944234946948),Hinton
-- [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/), Joan Bruna(Yann LeCun 博士后)
-- [Materials for Deep Learning](https://github.com/nndl/materials-for-deep-learning), FudanNLP
-- [Stanford CS236: Deep Generative Models](https://deepgenerativemodels.github.io/) 
 - [AI算法工程师笔记](http://www.huaxiaozhuan.com/)
-- [CS229](http://cs229.stanford.edu/syllabus.html)，主要看NOTES与最新论文
+- [NN4ML](https://www.bilibili.com/video/av9838961?from=search&seid=12389028944234946948),Hinton
+- [CSC 2541: Differentiable Inference and Generative Models](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
+- [STA 4273H: Large Scale Machine Learning](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/)
+- [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/), Joan Bruna(Yann LeCun 博士后)
 - [36-708 Statistical Methods for Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
-- CMU 10-715 Advanced Introduction to Machine Learning
 - 《Machine Learning：A Probabilistic Perspective》 
 - 《[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)》
   - [Stanford Lagunita: Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
   - [UCB: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
 - 《The Elements of Statistical Learning》
-- [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 - 其他：机器学习、深度学习，吴恩达；统计机器学习、机器学习导论，张志华；机器学习（各距离之间的关系）、深度学习，邹博；机器学习，徐亦达；机器学习基础、机器学习技法，林轩田；[慕课网：Python3玩转机器学习](https://coding.imooc.com/class/169.html)
 
 
