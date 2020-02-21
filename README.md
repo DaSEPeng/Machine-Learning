@@ -59,12 +59,13 @@
 - [Google: Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [Neural Networks and Deep Learning, Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
 
-**基础**
+**核心**
 - 《统计学习方法（第二版）》，李航著 &emsp;[[知乎参考读物](https://zhuanlan.zhihu.com/p/36378498)]
 - 《机器学习》， 周志华著；
 - [CS229: Machine Learning](http://cs229.stanford.edu/)
 - 《模式识别与机器学习》， 马春鹏译
   - [机器学习, 白板推导系列](https://github.com/shuhuai007/Machine-Learning-Session)&emsp;[Note](https://github.com/ws13685555932/machine_learning_derivation) 
+- [STA 4273H: Large Scale Machine Learning](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/)
 - 《深度学习》，Lan Goodfellow等著
     - [CMU Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)
 - 《概率图模型：原理与技术》Daphne Koller著
@@ -77,12 +78,10 @@
 - [CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
 - [CS229T：Statistical Learning Theory](http://web.stanford.edu/class/cs229t/)
 
-
-**进阶**
+**补充**
 - [AI算法工程师笔记](http://www.huaxiaozhuan.com/)
 - [NN4ML](https://www.bilibili.com/video/av9838961?from=search&seid=12389028944234946948),Hinton
 - [CSC 2541: Differentiable Inference and Generative Models](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
-- [STA 4273H: Large Scale Machine Learning](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/)
 - [Stat212b: Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/), Joan Bruna(Yann LeCun 博士后)
 - [36-708 Statistical Methods for Machine Learning](http://www.stat.cmu.edu/~larry/=sml/)
 - 《Machine Learning：A Probabilistic Perspective》 
