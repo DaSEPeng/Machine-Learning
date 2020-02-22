@@ -77,6 +77,7 @@
 - [CS294-158: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 - [CS236: Deep Generative Models](https://deepgenerativemodels.github.io/)
 - [CS229T：Statistical Learning Theory](http://web.stanford.edu/class/cs229t/)
+- [CS 330: Deep Multi-Task and Meta Learning](http://web.stanford.edu/class/cs330/)
 
 **补充**
 - [AI算法工程师笔记](http://www.huaxiaozhuan.com/)
