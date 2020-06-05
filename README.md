@@ -38,6 +38,7 @@
 - [高斯过程回归](https://github.com/shuhuai007/Machine-Learning-Session)
 - 更多更新请关注博主个人空间：[shuhuai008的个人空间](https://space.bilibili.com/97068901/video)
 
+
 **News:**
 - 2019/10/25：根据目前学的内容，整理了一份机器学习主干知识的统一架构，还没有完全梳理好（尤其是强化学习与概率图模型部分），但是最基本的架构已经确定了，分享出来供大家参考，后面我会继续调整，并做出必要的解释，有疑问或建议欢迎issue！
 
@@ -74,6 +75,7 @@
 - [CS 330: Deep Multi-Task and Meta Learning](http://web.stanford.edu/class/cs330/)
 
 **补充**
+- [机器学习与数据脱敏](https://www.bilibili.com/video/BV1oW411v7x1?from=search&seid=12500395213870724213)
 - [AI算法工程师笔记](http://www.huaxiaozhuan.com/)
 - [NN4ML](https://www.bilibili.com/video/av9838961?from=search&seid=12389028944234946948),Hinton
 - [CSC 2541: Differentiable Inference and Generative Models](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
