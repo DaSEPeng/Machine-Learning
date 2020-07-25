@@ -93,6 +93,6 @@
 ------------------------------------------------------------
 
 <div style="text-align:center;">
-This page maintained by @ <a href="https://dasepeng.github.io/">DaSEPeng</a>, 	
-<a href="https://github.com/DaSEPeng/Machine-Learning/">View on GitHub</a>
+This page maintained by @ <a href="/">dasepli</a>, 	
+<a href="/Machine-Learning/">View on GitHub</a>
 </div>
