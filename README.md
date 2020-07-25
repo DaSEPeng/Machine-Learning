@@ -1,4 +1,4 @@
-# Machine Learning and Deep Learning
+# Machine Learning
 **教材:**
 - [神经网络与深度学习](https://nndl.github.io/)，[邱锡鹏](https://xpqiu.github.io/)老师著
 
