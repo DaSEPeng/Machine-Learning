@@ -96,5 +96,5 @@
 
 <div style="text-align:center;">
 This page maintained by @ <a href="/">dasepli</a>, 	
-<a href="/Machine-Learning/">View on GitHub</a>
+<a href="https://github.com/dasepli/Machine-Learning">View on GitHub</a>
 </div>
